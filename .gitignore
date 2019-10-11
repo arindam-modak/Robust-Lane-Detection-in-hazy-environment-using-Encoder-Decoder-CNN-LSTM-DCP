@@ -1,1 +1,7 @@
 *.pdf
+__pycache__
+inputimages
+inputimages_ann
+inputimages2
+inputimages_ann2
+*.png
